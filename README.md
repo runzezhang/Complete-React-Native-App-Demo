@@ -1,14 +1,28 @@
-# React Native App with Redux / Axios / React Navigation / Expo
-This is a Demo App for developers to use Redux / Axios / React Navigation to build a React Native App.
-React Native is a framework to build Cross OS App, but it still need many 3-rd libraries support if you want to build a real-world App.
-This demo app is like a note for me to record the path when I use React Native to build an 'useable' app.
-## Why Expo Redux Axios and React Navigation
-- Expo is a set of tools, libraries and services you can use to build native iOS and Android apps faster than ever before.
-
-I build and test React Native with Expo.
-
-- React Navigation: Solve Route and basic Navigation Components in React Native
-- Redux: Manage application state, keep App up to date without setting to many triggers to update components.
-- Axios: Promise based HTTP client for the browser and node.js. The bridge between Front-End React Native and Back End API.
-
-At least with these 3 tools I can build a useable App.   
+# Complete React Native App DEMO
+This is a complete Demo App for developers to use Redux / Axios / React Navigation to build a React Native App by using Expo.
+# Functions
+1. Register / Login / Logout
+2. CRUD functions
+3. Multi Inputs form, text, textarea, single select, multi select, checkbox etc.
+4. Pull Refresh List
+5. Singature, Image View/ Upload
+6. Map View
+7. Tab/ Stack Nav
+8. Axios HTTp Request
+9. Redux State Management
+10. Multi Language
+11. Rating
+12. Payment
+# Components
+1. React Native
+2. React Navigation
+3. Redux
+4. Axios
+5. react-native-calendars
+6. react-native-datepicker
+7. react-native-easy-toast
+8. react-native-elements
+9. react-native-picker-select
+10. react-native-ratings
+11. react-navigation-collapsible
+12. tipsi-stripe
