@@ -1,4 +1,4 @@
-# Complete React Native App DEMO
+# Complete React Native App Demo
 This is a complete Demo App for developers to use Redux / Axios / React Navigation to build a React Native App by using Expo.
 # Functions
 1. Register / Login / Logout
